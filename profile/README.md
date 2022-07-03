@@ -22,8 +22,8 @@
 [nuxt]: https://github.com/boilercodes/nuxt
 
 [fastapi]: https://github.com/boilercodes/fastapi
-[fastapi-firebase]: https://github.com/boilercodes/fastapi
-[fastapi-sql]: https://github.com/boilercodes/fastapi
+[fastapi-firebase]: https://github.com/boilercodes/fastapi-firebase
+[fastapi-sql]: https://github.com/boilercodes/fastapi-sql
 
 [pycord]: https://github.com/boilercodes/pycord
 
