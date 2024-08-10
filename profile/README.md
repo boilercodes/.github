@@ -1,3 +1,7 @@
+I won't be updating this organisation anymore because I realised that it takes so much time to keep everything up to date with the latest version.
+
+However, I will keep this organisation open to remind me of how I organised my files and how I implemented best practice rules.
+
 ### Front-End Javascript Frameworks
 
 - [Angular]
